@@ -1,12 +1,14 @@
 # mnemonic-decrypter
 Decrypts accounts from a mnemonic
 
+</br>
+
 ## How to install
 ```
 npm install mnemonic-decrypter
 ```
 
-</br></br></br></br>
+</br>
 
 ## Usage Example
 ### Code Snippet
