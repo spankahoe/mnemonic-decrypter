@@ -5,7 +5,7 @@ Decrypts accounts from a provided mnemonic
 <code>
 const decrypter = require('mnemonic-decrypter');
 
-const mnemonic = "test test test test test test test test test test test test";
+const mnemonic = 'test test test test test test test test test test test test';
 const firstDecryptedAccount = decrypter.decrypt(mnemonic);
 const first2DecryptedAccounts = decrypter.decrypt(mnemonic,2);
 const first200DecryptedAccounts = decrypter.decrypt(mnemonic,200);
