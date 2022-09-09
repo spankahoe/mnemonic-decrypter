@@ -3,7 +3,7 @@ name: mnemonic-decrypter
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
