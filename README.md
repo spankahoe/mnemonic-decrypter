@@ -6,6 +6,8 @@ Decrypts accounts from a mnemonic
 npm install mnemonic-decrypter
 ```
 
+</br></br></br></br>
+
 ## Usage Example
 ### Code Snippet
 ```
