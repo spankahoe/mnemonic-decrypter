@@ -1,5 +1,10 @@
 # mnemonic-decrypter
-Decrypts accounts from a provided mnemonic
+Decrypts accounts from a mnemonic
+
+## How to install
+```
+npm install mnemonic-decrypter
+```
 
 ## Usage Example
 ### Code Snippet
