@@ -1,12 +1,20 @@
 {
   "name": "mnemonic-decrypter",
   "description": "Decrypts accounts from a provided mnemonic",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/gheoneaemil/mnemonic-decrypter.git"
   },
-  "keywords": [ "EVM", "Ethereum", "Polygon", "Binance Smart Chain", "mnemonic", "decrypter", "private key"],
+  "keywords": [
+    "EVM",
+    "Ethereum",
+    "Polygon",
+    "Binance Smart Chain",
+    "mnemonic",
+    "decrypter",
+    "private key"
+  ],
   "author": "Gheonea Emilian",
   "license": "MIT",
   "bugs": {
